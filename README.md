@@ -91,7 +91,7 @@ install.packages(c("statnet", "igraph", "intergraph", "ergm",
 - Some auxiliary code (edge list generation, vertex list construction) was written with AI assistance and is marked with `***` in the script comments.
 - The "Non-Aligned" label in the visualizations is used loosely to group strategically important states without mutual defense pacts; it does not refer to the historical Non-Aligned Movement. Bloc affiliation is not used in hypothesis testing.
 - 
-📊 **[View the presentation slides](POLS370_FINAL_FINAL.pdf)** — visual summary with network plots and key findings.
+📊 **[View the presentation slides](POLS370%20FINAL%20FINAL.pdf)** — visual summary with network plots and key findings.
 
 > **Note on numerical results:** The slides report coefficients from earlier model specifications that included `nodefactor("bloc")` as a control variable. The README reports the revised models without this control (see script comments). The substantive conclusions — H1 rejected, H2 confirmed — are identical across specifications.
 > 
